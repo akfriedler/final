@@ -19,9 +19,9 @@ var theatres = require('./theatres.json')
 // Firebase
 var Rebase = require('re-base')
 var base = Rebase.createClass({
-  apiKey: "AIzaSyB-GExRf_nYP-om143w7BIBO3USedU4Tbo",
-  authDomain: "final-9be21.firebaseapp.com",
-  databaseURL: "https://final-9be21.firebaseio.com",
+  apiKey: "AIzaSyAUy0AKAuy1E3lXfoiQgO7GaROpHeA3Jb4",
+  authDomain: "finalbf-2b15f.firebaseapp.com",
+  databaseURL: "https://finalbf-2b15f.firebaseio.com",
 })
 
 var MovieList = React.createClass({

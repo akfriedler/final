@@ -17,4 +17,4 @@ npm start
 For educational purposes only.
 
 Hosting address:
-https://final-9be21.firebaseapp.com/
+https://finalbf-2b15f.firebaseapp.com
